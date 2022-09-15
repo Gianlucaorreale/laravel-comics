@@ -29,26 +29,26 @@ Route::get('/tv', function () {
     return view('tv');
 });
 
-Route::get('/', function () {
+Route::get('/games', function () {
     return view('games');
 });
 
-Route::get('/', function () {
+Route::get('/collectibles', function () {
     return view('collectibles');
 });
 
-Route::get('/', function () {
+Route::get('/videos', function () {
     return view('videos');
 });
 
-Route::get('/', function () {
+Route::get('/fans', function () {
     return view('fans');
 });
 
-Route::get('/', function () {
+Route::get('/news', function () {
     return view('news');
 });
 
-Route::get('/', function () {
+Route::get('/shop', function () {
     return view('shop');
 });
