@@ -1,2 +1,24 @@
-@import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);header {
+  height: 100px;
+}
+
+header ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+}
+
+header ul li {
+  margin: 0 20px;
+}
+
+header ul li img {
+  height: 60px;
+}
+
+header ul li a {
+  text-decoration: none;
+  color: black;
+}
 
