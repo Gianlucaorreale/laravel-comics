@@ -9,5 +9,20 @@
 </head>
 <body>
     @include('includes.header')
+    <footer>
+        <section class="first-sec"></section>
+        <section class="second-sec">
+            <ul>
+                <li><a class="white" href="#"><strong>SIGN-UP NOW</strong></a></li>
+            </ul>
+            <ul>
+                <li><a class="blue" href="#"><strong>FOLLOW US</strong></a></li>
+                <li><a class="blue" href="#"><strong>FOLLOW US</strong></a></li>
+                <li><a class="blue" href="#"><strong>FOLLOW US</strong></a></li>
+                <li><a class="blue" href="#"><strong>FOLLOW US</strong></a></li>
+                <li><a class="blue" href="#"><strong>FOLLOW US</strong></a></li>
+            </ul>
+        </section>
+    </footer>
 </body>
 </html>
