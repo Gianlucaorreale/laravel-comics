@@ -62,6 +62,31 @@
                 </div>
             </div>
         </div>
+        <div class="second-footer">
+            <div class="container">
+                <ul>
+                    <li><a href="#"><strong>SIGN UP NOW</strong></a></li>
+                </ul>
+                <ul>
+                    <li><a href="#"><strong>FOLLOW US</strong></a></li>
+                    <li>
+                        <img src="{{ asset('images/footer-facebook.png') }}" alt="dc-logo-bg">
+                    </li>
+                    <li>
+                        <img src="{{ asset('images/footer-twitter.png') }}" alt="dc-logo-bg">
+                    </li>
+                    <li>
+                        <img src="{{ asset('images/footer-youtube.png') }}" alt="dc-logo-bg">
+                    </li>
+                    <li>
+                        <img src="{{ asset('images/footer-pinterest.png') }}" alt="dc-logo-bg">
+                    </li>
+                    <li>
+                        <img src="{{ asset('images/footer-periscope.png') }}" alt="dc-logo-bg">
+                    </li>
+                </ul>
+            </div>
+        </div>
     </footer>
 </body>
 </html>

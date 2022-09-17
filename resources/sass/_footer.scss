@@ -25,3 +25,27 @@
         }
     }
  }
+
+ .second-footer{
+    height: 100px;
+    background-color: #303030;
+    .container{
+        width: 1200px;
+        margin: 0 200px;
+        display: flex;
+        justify-content: space-between;
+       
+        ul{
+            display: flex;
+            list-style-type: none;
+            align-items: center;
+            li{
+                margin: 0 10px;
+                a{
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+   
+ }
