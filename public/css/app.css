@@ -30,30 +30,35 @@ header ul li a:hover {
   color: dodgerblue;
 }
 
-.first-sec {
+.first-footer {
   height: 400px;
   background-image: url("/images/footer-bg.jpg");
 }
 
-.second-sec {
-  height: 100px;
-  background-color: #303030;
+.first-footer .container {
+  width: 1200px;
+  margin: 0 200px;
+}
+
+.first-footer .container .row {
   display: flex;
   justify-content: space-between;
 }
 
-.second-sec ul {
-  list-style-type: none;
+.first-footer .container .row .first-col {
   display: flex;
-  align-items: center;
 }
 
-.second-sec ul li {
-  margin: 0 10px;
+.first-footer .container .row .first-col ul {
+  list-style-type: none;
 }
 
-.second-sec ul li a {
+.first-footer .container .row .first-col ul a {
   text-decoration: none;
-  color: white;
+  color: lightgray;
+}
+
+.first-footer .container .row img {
+  height: 400px;
 }
 
