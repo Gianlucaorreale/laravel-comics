@@ -9,6 +9,7 @@
 </head>
 <body>
     @include('includes.header')
+    <div class="jumbotron"></div>
     <footer>
         <div class="first-footer">
             <div class="container">

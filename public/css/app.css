@@ -88,3 +88,9 @@ header ul li a:hover {
   text-decoration: none;
 }
 
+.jumbotron {
+  background-image: url("/images/jumbotron.jpg");
+  height: 400px;
+  background-size: cover;
+}
+
