@@ -33,5 +33,22 @@ header ul li a:hover {
 .second-sec {
   height: 100px;
   background-color: #303030;
+  display: flex;
+  justify-content: space-between;
+}
+
+.second-sec ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+
+.second-sec ul li {
+  margin: 0 10px;
+}
+
+.second-sec ul li a {
+  text-decoration: none;
+  color: white;
 }
 

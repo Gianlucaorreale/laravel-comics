@@ -17,10 +17,10 @@
             </ul>
             <ul>
                 <li><a class="blue" href="#"><strong>FOLLOW US</strong></a></li>
-                <li><a class="blue" href="#"><strong>FOLLOW US</strong></a></li>
-                <li><a class="blue" href="#"><strong>FOLLOW US</strong></a></li>
-                <li><a class="blue" href="#"><strong>FOLLOW US</strong></a></li>
-                <li><a class="blue" href="#"><strong>FOLLOW US</strong></a></li>
+                <li><a class="blue" href="#"><strong>Facebook</strong></a></li>
+                <li><a class="blue" href="#"><strong>twitter</strong></a></li>
+                <li><a class="blue" href="#"><strong>youtube</strong></a></li>
+                <li><a class="blue" href="#"><strong>pinterest</strong></a></li>
             </ul>
         </section>
     </footer>
