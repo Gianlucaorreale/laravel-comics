@@ -30,6 +30,11 @@ header ul li a:hover {
   color: dodgerblue;
 }
 
+.first-sec {
+  height: 400px;
+  background-image: url("/images/footer-bg.jpg");
+}
+
 .second-sec {
   height: 100px;
   background-color: #303030;
