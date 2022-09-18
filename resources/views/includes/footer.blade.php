@@ -35,6 +35,8 @@
                               <li><a href="#">shop Help</a></li>
                               <li><a href="#">Contact Us</a></li>
                            </ul>
+                        </div>
+                        <div class="third-list-sec">
                            <ul>
                               <li><a href="#"><strong>SITES</strong></a></li>
                               <li><a href="#">DC</a></li>
@@ -53,9 +55,7 @@
         </div>
         <div class="second-footer">
             <div class="container">
-                <ul>
-                    <li><a href="#"><strong>SIGN UP NOW</strong></a></li>
-                </ul>
+                <p><strong><a href="#">SIGN UP NOW</a></strong></p>
                 <ul>
                     <li><a href="#"><strong>FOLLOW US</strong></a></li>
                     <li>

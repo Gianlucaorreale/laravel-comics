@@ -34,7 +34,15 @@
         margin: 0 200px;
         display: flex;
         justify-content: space-between;
-       
+        p{
+            
+            border: 3px solid dodgerblue;
+            padding: 10px;
+            a{
+                color: white;
+                text-decoration: none;
+            }
+        }
         ul{
             display: flex;
             list-style-type: none;

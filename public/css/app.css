@@ -61,6 +61,14 @@ header ul li a:hover {
   display: flex;
   justify-content: space-between;
 }
+.second-footer .container p {
+  border: 3px solid dodgerblue;
+  padding: 10px;
+}
+.second-footer .container p a {
+  color: white;
+  text-decoration: none;
+}
 .second-footer .container ul {
   display: flex;
   list-style-type: none;
