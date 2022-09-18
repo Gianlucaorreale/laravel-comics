@@ -1,7 +1,7 @@
 @extends('layouts.main')
 
 @section('main-content')
-  <div class="container">
+  <div class="container-comics">
       <section id="products">
           <h1>CURRENT SERIES</h1>
           <div class="row">

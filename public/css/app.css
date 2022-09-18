@@ -5,27 +5,22 @@
 header {
   height: 100px;
 }
-
 header ul {
   display: flex;
   align-items: center;
   justify-content: center;
   list-style-type: none;
 }
-
 header ul li {
   margin: 0 20px;
 }
-
 header ul li img {
   height: 60px;
 }
-
 header ul li a {
   text-decoration: none;
   color: black;
 }
-
 header ul li a:hover {
   color: dodgerblue;
 }
@@ -34,30 +29,24 @@ header ul li a:hover {
   height: 400px;
   background-image: url("/images/footer-bg.jpg");
 }
-
 .first-footer .container {
   width: 1200px;
   margin: 0 200px;
 }
-
 .first-footer .container .row {
   display: flex;
   justify-content: space-between;
 }
-
 .first-footer .container .row .first-col {
   display: flex;
 }
-
 .first-footer .container .row .first-col ul {
   list-style-type: none;
 }
-
 .first-footer .container .row .first-col ul a {
   text-decoration: none;
   color: lightgray;
 }
-
 .first-footer .container .row img {
   height: 400px;
 }
@@ -66,24 +55,20 @@ header ul li a:hover {
   height: 100px;
   background-color: #303030;
 }
-
 .second-footer .container {
   width: 1200px;
   margin: 0 200px;
   display: flex;
   justify-content: space-between;
 }
-
 .second-footer .container ul {
   display: flex;
   list-style-type: none;
   align-items: center;
 }
-
 .second-footer .container ul li {
   margin: 0 10px;
 }
-
 .second-footer .container ul li a {
   text-decoration: none;
 }
@@ -94,3 +79,27 @@ header ul li a:hover {
   background-size: cover;
 }
 
+.container-comics {
+  background-color: black;
+}
+.container-comics #products {
+  width: 1200px;
+  margin: 0 200px;
+}
+.container-comics #products h1 {
+  color: white;
+  background-color: dodgerblue;
+  width: 125px;
+  padding: 10px;
+}
+.container-comics #products .row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.container-comics #products .row .card {
+  width: calc(16.6666666667% - 20px);
+  margin: 0 10px;
+}
+.container-comics #products .row .card h3 {
+  color: white;
+}
